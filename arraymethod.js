@@ -236,4 +236,4 @@ console.log(c);
 let countries = ["USA", "Uk"];
 let i = ["india"];
 let m = countries.unshift(...i);
-console.log(countries);
+console.log(countries); 
